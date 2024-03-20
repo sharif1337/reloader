@@ -1,5 +1,6 @@
 # Reloader For Fiverr
-This tool will open your profile in 5 to 10 random minutes## Usage:
+This tool will open your profile in 5 to 10 random minutes
+## Usage:
 ```
 python3 reloader.py -u username
 ```
